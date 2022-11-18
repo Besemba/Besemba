@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://img.freepik.com/free-vector/male-programmer-glasses-working-computer-his-office-flat-vector-illustration_1284-66913.jpg" width="200"/>
+  <img src="https://img.freepik.com/free-vector/male-programmer-glasses-working-computer-his-office-flat-vector-illustration_1284-66913.jpg" width="120"/>
 </div>
 
 # Hi there 👋
