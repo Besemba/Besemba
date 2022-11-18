@@ -1,4 +1,4 @@
-<div id="header" >
+<div id="header">
   <img src="https://img.freepik.com/free-vector/male-programmer-glasses-working-computer-his-office-flat-vector-illustration_1284-66913.jpg" width="120"/>
 </div>
 
