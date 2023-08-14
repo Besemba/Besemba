@@ -6,9 +6,7 @@
 My name is Ruslan and I am a beginner web developer!
 
 ### :information_desk_person: About me:
-- 🌱 I’m currently learning web-development in the online school Skillbox
 - 💼 Here you can find my portfolio with some of the final study projects
-- 🤔 I’m looking for some job for a trainee/junior frontend-developer
 - 📫 How to reach me: Ruslanbeisembaev96@gmail.com
 
 ---
