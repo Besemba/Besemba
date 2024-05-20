@@ -3,10 +3,7 @@
 </div>
 
 # Hi there 👋
-My name is Ruslan and I am a beginner web developer!
 
-### :information_desk_person: About me:
-- 💼 Here you can find my portfolio with some of the final study projects
 - 📫 How to reach me: Ruslanbeisembaev96@gmail.com
 
 ---
